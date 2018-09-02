@@ -19,7 +19,7 @@ to creating a simple document.
 
 !!! note
     The function [`DocumenterTools.generate`](@ref) from the `DocumenterTools` package
-    can generate the basic structure that Documenters expects.
+    can generate the basic structure that Documenter expects.
 
 Firstly, we need a Julia module to document. This could be a package generated via
 `PkgDev.generate` or a single `.jl` script accessible via Julia's `LOAD_PATH`. For this
