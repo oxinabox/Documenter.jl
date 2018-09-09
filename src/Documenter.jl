@@ -6,6 +6,8 @@ Two functions are exported from this module for public use:
 - [`makedocs`](@ref). Generates documentation from docstrings and templated markdown files.
 - [`deploydocs`](@ref). Deploys generated documentation from *Travis-CI* to *GitHub Pages*.
 
+# Exports
+
 $(EXPORTS)
 
 """
